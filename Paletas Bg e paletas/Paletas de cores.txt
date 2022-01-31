@@ -1,0 +1,57 @@
+paletas ervas
+
+#9CA651
+#565939
+#878C5E
+#594336
+#402722
+
+/* Color Theme Swatches in Hex */
+.temperos-e-ervas-1-hex { color: #9CA651; }
+.temperos-e-ervas-2-hex { color: #565939; }
+.temperos-e-ervas-3-hex { color: #878C5E; }
+.temperos-e-ervas-4-hex { color: #594336; }
+.temperos-e-ervas-5-hex { color: #402722; }
+
+/* Color Theme Swatches in RGBA */
+.temperos-e-ervas-1-rgba { color: rgba(155, 165, 81, 1); }
+.temperos-e-ervas-2-rgba { color: rgba(85, 89, 57, 1); }
+.temperos-e-ervas-3-rgba { color: rgba(134, 140, 93, 1); }
+.temperos-e-ervas-4-rgba { color: rgba(89, 66, 53, 1); }
+.temperos-e-ervas-5-rgba { color: rgba(63, 39, 33, 1); }
+
+/* Color Theme Swatches in HSLA */
+.temperos-e-ervas-1-hsla { color: hsla(67, 34, 48, 1); }
+.temperos-e-ervas-2-hsla { color: hsla(67, 21, 28, 1); }
+.temperos-e-ervas-3-hsla { color: hsla(67, 19, 45, 1); }
+.temperos-e-ervas-4-hsla { color: hsla(22, 25, 27, 1); }
+.temperos-e-ervas-5-hsla { color: hsla(11, 30, 19, 1); }
+
+Paletas ervas escuras
+
+#C5D1D9
+#737155
+#D9D2B0
+#A69668
+#403726
+
+/* Color Theme Swatches in Hex */
+.O-Guaco-é-uma-planta-medicinal,-também-conhecida-por-ervas-de-serpentes,-cipó-catinga-ou-erva-de-cobra,-muito-utilizada-em-problemas-respiratórios-devido-ao-seu-efeito-broncodilatador-e-expectorante.-1-hex { color: #C5D1D9; }
+.O-Guaco-é-uma-planta-medicinal,-também-conhecida-por-ervas-de-serpentes,-cipó-catinga-ou-erva-de-cobra,-muito-utilizada-em-problemas-respiratórios-devido-ao-seu-efeito-broncodilatador-e-expectorante.-2-hex { color: #737155; }
+.O-Guaco-é-uma-planta-medicinal,-também-conhecida-por-ervas-de-serpentes,-cipó-catinga-ou-erva-de-cobra,-muito-utilizada-em-problemas-respiratórios-devido-ao-seu-efeito-broncodilatador-e-expectorante.-3-hex { color: #D9D2B0; }
+.O-Guaco-é-uma-planta-medicinal,-também-conhecida-por-ervas-de-serpentes,-cipó-catinga-ou-erva-de-cobra,-muito-utilizada-em-problemas-respiratórios-devido-ao-seu-efeito-broncodilatador-e-expectorante.-4-hex { color: #A69668; }
+.O-Guaco-é-uma-planta-medicinal,-também-conhecida-por-ervas-de-serpentes,-cipó-catinga-ou-erva-de-cobra,-muito-utilizada-em-problemas-respiratórios-devido-ao-seu-efeito-broncodilatador-e-expectorante.-5-hex { color: #403726; }
+
+/* Color Theme Swatches in RGBA */
+.O-Guaco-é-uma-planta-medicinal,-também-conhecida-por-ervas-de-serpentes,-cipó-catinga-ou-erva-de-cobra,-muito-utilizada-em-problemas-respiratórios-devido-ao-seu-efeito-broncodilatador-e-expectorante.-1-rgba { color: rgba(197, 209, 216, 1); }
+.O-Guaco-é-uma-planta-medicinal,-também-conhecida-por-ervas-de-serpentes,-cipó-catinga-ou-erva-de-cobra,-muito-utilizada-em-problemas-respiratórios-devido-ao-seu-efeito-broncodilatador-e-expectorante.-2-rgba { color: rgba(114, 112, 84, 1); }
+.O-Guaco-é-uma-planta-medicinal,-também-conhecida-por-ervas-de-serpentes,-cipó-catinga-ou-erva-de-cobra,-muito-utilizada-em-problemas-respiratórios-devido-ao-seu-efeito-broncodilatador-e-expectorante.-3-rgba { color: rgba(216, 209, 175, 1); }
+.O-Guaco-é-uma-planta-medicinal,-também-conhecida-por-ervas-de-serpentes,-cipó-catinga-ou-erva-de-cobra,-muito-utilizada-em-problemas-respiratórios-devido-ao-seu-efeito-broncodilatador-e-expectorante.-4-rgba { color: rgba(165, 150, 104, 1); }
+.O-Guaco-é-uma-planta-medicinal,-também-conhecida-por-ervas-de-serpentes,-cipó-catinga-ou-erva-de-cobra,-muito-utilizada-em-problemas-respiratórios-devido-ao-seu-efeito-broncodilatador-e-expectorante.-5-rgba { color: rgba(63, 54, 38, 1); }
+
+/* Color Theme Swatches in HSLA */
+.O-Guaco-é-uma-planta-medicinal,-também-conhecida-por-ervas-de-serpentes,-cipó-catinga-ou-erva-de-cobra,-muito-utilizada-em-problemas-respiratórios-devido-ao-seu-efeito-broncodilatador-e-expectorante.-1-hsla { color: hsla(202, 20, 81, 1); }
+.O-Guaco-é-uma-planta-medicinal,-também-conhecida-por-ervas-de-serpentes,-cipó-catinga-ou-erva-de-cobra,-muito-utilizada-em-problemas-respiratórios-devido-ao-seu-efeito-broncodilatador-e-expectorante.-2-hsla { color: hsla(56, 14, 39, 1); }
+.O-Guaco-é-uma-planta-medicinal,-também-conhecida-por-ervas-de-serpentes,-cipó-catinga-ou-erva-de-cobra,-muito-utilizada-em-problemas-respiratórios-devido-ao-seu-efeito-broncodilatador-e-expectorante.-3-hsla { color: hsla(50, 34, 76, 1); }
+.O-Guaco-é-uma-planta-medicinal,-também-conhecida-por-ervas-de-serpentes,-cipó-catinga-ou-erva-de-cobra,-muito-utilizada-em-problemas-respiratórios-devido-ao-seu-efeito-broncodilatador-e-expectorante.-4-hsla { color: hsla(45, 25, 52, 1); }
+.O-Guaco-é-uma-planta-medicinal,-também-conhecida-por-ervas-de-serpentes,-cipó-catinga-ou-erva-de-cobra,-muito-utilizada-em-problemas-respiratórios-devido-ao-seu-efeito-broncodilatador-e-expectorante.-5-hsla { color: hsla(39, 25, 20, 1); }
