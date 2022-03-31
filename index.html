@@ -1,20 +1,23 @@
 <!DOCTYPE html>
 <html lang="pt-BR">
-<head>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title> AOBA! conveniência </title>
-  <link rel="stylesheet" href="style.css">
-</head>
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title> AOBA! conveniência </title>
+    <link rel="stylesheet" href="style.css">
+
+  </head>
 <body>
+  
 <header>
-<a href="#" class="logo">Aoba<span>!</span>  </a>
+<a href="#" class="logo">Aoba<span>!</span></a>
 <ul class="navigation">
-<li><a href="#home">Home</a> </li>
+<li><a href="#banner">Home</a> </li>
 <li><a href="#sobre nós">sobre nós</a> </li>
 <li><a href="#Produtos">Produtos</a> </li>
 <li><a href="#Expert">Expert</a> </li>
-<li><a href="#Falando sobre">Falando sobre</a> </li>
+<li><a href="#testemunho">Falando sobre</a> </li>
 <li><a href="#Contato">Contato</a> </li>
 </ul>
 </header>    
@@ -34,7 +37,7 @@
     <div class="row">
       <div class="col50">
         <h2 class="titleText"><span>S</span>obre Nós </h2>
-        <p>A empresa começou com a vontade de vender minhas mercadorias,
+        <p>A empresa começou com a vontade de vender minhas mercadorias,        
           comecei a pensa em que vender, comecei com bijuterias, com
         bijuterias na feira na vila nova curuça em são paulo zona leste em são paulo
         no ano de 2017
@@ -44,7 +47,7 @@
         pães e bolos caseiros
         <br></p>
         </div>
-
+     
     <div class="col50">
 <div class="imgBx">
   <img src="assents/Bg2.jpg">
@@ -195,12 +198,106 @@
                               <a href="#" class="btn"> veja tudo</a>
                             </div>
    </section>
+   <div class="container">
 
+<section class="Expert" id="Expert"> 
+      <div class="title">
+        <h2 class="titleText">Os <span>E</span>xperts </h2>
+        <p>Trazendo as melhores marcas e produtos, tererés, bolos e pães caseiros;
+          Ouropy e Uhde diversos sabores.</p>
+  </div>
+  <div class="cards">
+    <div class="card">
+      <h2 class="card-title">Programador</h2>
+      <img src="assents/Perfil/1.jpg">
+       <p class="card-desc"> vendedor autonomo
+        <br>
+        orientador do site
+        <br>
+        Pesquisador de produtos
+        <br>
+        <a href="#" class="btns">mais info</a>
+      </p></p>
+    </div>
+      <div class="card">
+        <h2 class="card-title">Bibliotecario</h2>
+        <img src="assents/Perfil/3.jpg">
+         <p class="card-desc">Lucas querino
+          <br>
+         Bibliotecario<br>
+         orientador do site
+         <br>
+         Pesquisador de produtos
+         <br>
+         <a href="#" class="btns">mais info</a>
+        </p>
+      </div>
+        <div class="card">
+          <h2 class="card-title">Sac</h2>
+          <img src="assents/Perfil/5.jpg">
+           <p class="card-desc">orientadora do site
+            <br>
+            Pesquisadora de produtos
+            <br>
+            <a href="#" class="btns">mais info</a>
+          </p>
+        </div>
+
+        <a href="#" class="btn"> Nosso produto</a>
+      </div>
+</section>
+
+        <section class="testemunho" id="testemunho"> 
+          <div class="titless">
+            <h2 class="titleText1">Oque dizem <span>S</span>obre sobre nós </h2>
+            <p>Testemunho de Clientes e Amigos, Sobre nossa empresa, mercadorias, comprometimento
+              na qualidade e entrega
+            </p>
+      </div>
+<div class="content">
+<div class="box">
+<div class="imgBx">
+  <img src="assents/cliente3.jpg">
+  </div>
+  <div class="text1">
+    <p>Trazendo as melhores marcas e produtos, tererés, bolos e pães caseiros;
+      Ouropy e Uhde diversos sabores.</p>
+      <h3>Clientes Aparecida</h3>
+  </div>
+  </div>
+
+  <div class="box">
+    <div class="imgBx">
+      <img src="assents/cliente2.jpg">
+      </div>
+      <div class="text1">
+        <p>Trazendo as melhores marcas e produtos, tererés, bolos e pães caseiros;
+          Ouropy e Uhde diversos sabores.</p>
+          <h3>Parceiro Jonas Lott</h3>
+      </div>
+      </div>
+
+      <div class="box">
+        <div class="imgBx">
+          <img src="assents/cliente1.jpg">
+          </div>
+          <div class="text1">
+            <p>Trazendo as melhores marcas e produtos, tererés, bolos e pães caseiros;
+              Ouropy e Uhde diversos sabores.</p>
+              <h3>Clientes Josefa</h3>
+          </div>
+          </div>
+          <a href="#" class="btnss"> Nosso produto</a>
+        </div>
+
+</section>
+    
 <script type="text/javascript">
   window.addEventListener('scroll' , function(){
     const header = document.querySelector('header');
     header.classList.toggle("sticky" , window.scrollY > 0)
   });
 </script>
+      
 </body>
 </html>
