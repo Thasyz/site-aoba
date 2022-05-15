@@ -6,10 +6,10 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title> AOBA! conveniência </title>
     <link rel="stylesheet" href="style.css">
-
+    
   </head>
 <body>
-  
+
 <header>
 <a href="#" class="logo">Aoba<span>!</span></a>
 <ul class="navigation">
@@ -20,17 +20,25 @@
 <li><a href="#testemunho">Falando sobre</a> </li>
 <li><a href="#Contato">Contato</a> </li>
 </ul>
-</header>    
+</header>  
+<div id="progressbar"> </div>
+<div id="ScrollPath"> </div>
 <section class="banner" id="banner">
-  
   <div class="content">
   <h2> De Lavinia para você </h2>
-  <p> trazendo para cidade de lavinia o melhor do tereré, roupas e
-   para seu café da manhã temos: pão, bolo e doce de leite caseiro.</p>
-   <p> Mostrando um pouco do meu trabalho na internet
-     como design e frontend. </p>
-   <a href="#Produtos" class="btn"> Nosso produto</a>
-  </div>
+
+  <div class="lavinia">
+    <div class="boxy">
+     <p>Trazendo para cidade de lavinia o melhor do tereré,
+   para seu café da manhã temos: pão, bolo e doce de leite caseiro.
+   Mostrando um pouco do meu trabalho na internet
+     como design e frontend.</p>
+    </div>   
+  </div>  
+  <a href="#Produtos" class="btnsss"> Nosso produto</a>
+ 
+    </div>   
+ 
 </section>
 
   <section class="sobre nós" id="sobre nós"> 
@@ -293,13 +301,23 @@
         </div>
 
 </section>
-    
+    <script type="text/javascript">
+     let progress = document.getElementById('progressbar')
+     let totalHeight = document.body.scrollHeight - 
+     window.innerHeight;
+     window.onscroll = function() {
+       let progressHeight = (window.pageYOffset / totalHeight) * 99;
+       progress.style.height = progressHeight + "%";
+     }
+     </script>
 <script type="text/javascript">
   window.addEventListener('scroll' , function(){
     const header = document.querySelector('header');
     header.classList.toggle("sticky" , window.scrollY > 0)
   });
 </script>
-      
 </body>
+<footer>
+ 
+</footer>  
 </html>
